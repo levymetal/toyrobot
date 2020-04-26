@@ -17,7 +17,7 @@ describe Robot do
     context 'with invalid x' do
       let(:x) { 5 }
 
-      it { is_expected.to eq '0,0,' }
+      it { is_expected.to eq '1,0,' }
     end
 
     context 'with invalid y' do
