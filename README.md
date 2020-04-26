@@ -1,3 +1,21 @@
+![ruby](https://github.com/levymetal/toy-robot-simulator/workflows/ruby/badge.svg?branch=master)
+
+### What?
+
+https://github.com/DiscoverRedwolf/toyrobot
+
+### Setup
+
+`bundle`
+
+### Running
+
+`ruby ./simulation.rb` or `./simulation.rb`
+
+### Testing
+
+`bundle exec rspec spec`
+
 <strong>Toy Robot Simulator challenge</strong>
 
 Description:
