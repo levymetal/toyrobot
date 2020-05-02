@@ -2,19 +2,7 @@
 
 ### What?
 
-https://github.com/DiscoverRedwolf/toyrobot
-
-### Setup
-
-`bundle`
-
-### Running
-
-`ruby ./simulation.rb` or `./simulation.rb`
-
-### Testing
-
-`bundle exec rspec spec`
+[Ruby](https://github.com/levymetal/toy-robot-simulator/blob/master/ruby) and [JavaScript](https://github.com/levymetal/toy-robot-simulator/blob/master/javascript) implementations of https://github.com/DiscoverRedwolf/toyrobot
 
 <strong>Toy Robot Simulator challenge</strong>
 
