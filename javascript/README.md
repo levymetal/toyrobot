@@ -4,4 +4,8 @@
 
 ### Running
 
-`node index.js`
+`npm start`
+
+### Testing
+
+`npm test`
