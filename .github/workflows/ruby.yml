@@ -19,6 +19,7 @@ jobs:
         ruby-version: 2.6.x
     - name: Build and test with rspec
       run: |
+        cd ruby
         gem install bundler
         bundle install
         bundle exec rspec spec
