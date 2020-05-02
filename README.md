@@ -1,4 +1,4 @@
-![ruby](https://github.com/levymetal/toy-robot-simulator/workflows/ruby/badge.svg?branch=master)
+![ruby](https://github.com/levymetal/toy-robot-simulator/workflows/ruby/badge.svg?branch=master) ![js](https://github.com/levymetal/toy-robot-simulator/workflows/javascript/badge.svg?branch=master)
 
 ### What?
 
